@@ -1,0 +1,9 @@
+{
+  "databaseURI": "mongodb://localhost:27017/appdb",
+  "cloud": "/home/ubuntu/app/cloud/main.js",
+  "appId": "<SUA API_ID>",
+  "masterKey": "<SUA CHAVE>",
+  "fileKey": "optionalFileKey",
+  "parseAPIPrefix": "/appserver",
+  "port": 1337
+}
